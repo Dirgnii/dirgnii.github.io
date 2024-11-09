@@ -1,0 +1,72 @@
+body{
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    background-color: #000;
+}
+
+#menu{
+    padding: 10px 0 15px 0;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    text-decoration: none;
+    
+}
+.logo p{
+    font-size: 25px;  
+}
+
+#autobot{
+    display: flex;
+    padding: 10px 0 10px 20px;
+    height: 500px;
+    border: 1px solid white;
+}
+
+.bannerTxt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: solid 1px red;
+    width: 50%;
+    padding:0 0 0 15px;
+
+}
+
+#ct1{
+    padding: 10px 50px 10px 50px;
+    min-height: 300px;
+    border: 1px solid blue;
+}
+
+.secct1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 0 90px 0;
+}
+
+.descrip{
+    width: 700px;
+
+}
+
+#ct2{
+    padding: 10px 50px 10px 50px;
+    min-height: 300px;
+    border: 1px solid blue;
+    margin-top: 10px;
+}
+
+.orderct2{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
